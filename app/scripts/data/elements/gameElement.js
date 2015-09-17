@@ -1,7 +1,7 @@
 var GameElement = function () {
-  this.x = 0;
-  this.y = 0;
-  this.z = 0;
+	this.positionX = 0;
+	this.positionY = 0;
+	this.positionZ = 0;
   
-  this.baseModel = "";
+	this.baseModel = "";
 };
