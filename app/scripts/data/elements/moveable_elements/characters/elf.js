@@ -9,3 +9,6 @@ Elf.prototype.strength = 3;
 Elf.prototype.life = 3;
 Elf.prototype.resistance = 3;
 Elf.prototype.actions = 5;
+Elf.prototype.intelligence = 8;
+Elf.prototype.sight = 8;
+Elf.prototype.aim = 6;

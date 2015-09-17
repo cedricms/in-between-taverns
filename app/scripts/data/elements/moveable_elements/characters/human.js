@@ -5,6 +5,9 @@ for(key in Character.prototype) {   // copying all Character prototype property 
 }
 
 Human.prototype.movement = 4;
-Dwarf.prototype.strength = 4;
-Dwarf.prototype.life = 4;
-Dwarf.prototype.resistance = 4;
+Human.prototype.strength = 4;
+Human.prototype.life = 4;
+Human.prototype.resistance = 4;
+Human.prototype.intelligence = 6;
+Human.prototype.sight = 6;
+Human.prototype.aim = 4;
