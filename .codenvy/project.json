@@ -1,1 +1,0 @@
-{"builders":{"configs":{}},"mixinTypes":[],"runners":{"configs":{"system:/javascript/web/gulp":{"ram":1000,"variables":{},"options":{}}},"default":"system:/javascript/web/gulp"},"type":"AngularJS","attributes":{"framework":["AngularJS"],"language":["javascript"]},"description":"A HTML5 game of what happens to an adventuring party between taverns."}
