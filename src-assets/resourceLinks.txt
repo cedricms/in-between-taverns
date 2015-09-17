@@ -1,2 +1,4 @@
 http://blog.xebia.fr/2013/06/10/javascript-retour-aux-bases-constructeur-prototype-et-heritage/
 
+https://codenvy.com/ws/tmp-workspacec5jo7br/web-angularjs-javascript-gulp-starter
+
