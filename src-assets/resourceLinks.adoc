@@ -1,4 +1,8 @@
+= Javascript
 http://blog.xebia.fr/2013/06/10/javascript-retour-aux-bases-constructeur-prototype-et-heritage/
 
+= Gulp
 https://codenvy.com/ws/tmp-workspacec5jo7br/web-angularjs-javascript-gulp-starter
 
+= Three.js
+http://www.smashinglabs.pl/3d-tetris-with-three-js-tutorial-part-1
