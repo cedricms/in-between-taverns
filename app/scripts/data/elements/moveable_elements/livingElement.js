@@ -6,6 +6,9 @@ var LivingElement = function() {
    this.intelligence = 0;
    this.sight = 0;
    this.aim = 0;
+   this.magicMastery = 0;
+   this.magicReserve = 0;
+   this.magicMaxReserve = 0;
 };
 
 for(key in GameElement.prototype) {   // copying all GameElement prototype property into the LivingElement property
